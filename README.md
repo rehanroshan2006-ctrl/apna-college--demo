@@ -1,3 +1,5 @@
 # apna-college--demo
-this is my 1st Git  depository
-Author - rehan
+this is my 1st Git  depository.
+<br>
+
+Author - Rehan
